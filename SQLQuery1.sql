@@ -1,8 +1,8 @@
 --Create Database
-CREATE DATABASE GitHub;
+CREATE DATABASE Employee_Data;
 
 --Use Database
-USE GitHub;
+USE Employee_Data;
 
 --Create the Employee
 CREATE Table EMPLOYEE (
